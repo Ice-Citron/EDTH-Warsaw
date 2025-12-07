@@ -1,6 +1,7 @@
 # Hiding venv library files as well as local weight-inference *.pt files.
 *.pt
 edth-warsaw/
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
